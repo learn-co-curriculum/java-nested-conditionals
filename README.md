@@ -191,3 +191,8 @@ Let's do knowledge check based off of the code above!
   <p><code>Congrats! You passed!</code><br><code>Wow! You got an A!</code><br><code>Great job!</code></p>
 
 </details>
+
+Word of caution: While it is perfectly valid for conditionals to contain other
+conditionals, and for those conditionals to contain even more conditionals,
+keep in mind that too much nesting could cause issues with testing and
+maintaining the code along the way.
